@@ -4,7 +4,7 @@
 
 - [DeepLab Studio MiniMesh 433MHz](https://amzn.eu/d/0aZpSRX1)
 
-- [LILYGO ESP32 Geliştirme Kartları](motorobit.com/lilygo)
+- [LILYGO ESP32 Geliştirme Kartları](https://motorobit.com/lilygo)
 
 
 ## nRF52
