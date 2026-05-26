@@ -12,6 +12,7 @@
 ## nRF52
 - [NRF52840 Promicro](https://robiz.net/nrf52840promicro?search=nrf&description=true)
 - [NRF52840 Promicro](https://www.aletler.com.tr/urun/nrf52840-promicro-modul)
+- [NRF52840 Promicro](https://www.kartalotomasyon.com.tr/urun/nrf52840-dongle-ve-multi-protocol)
 
 
 ## ESP32
